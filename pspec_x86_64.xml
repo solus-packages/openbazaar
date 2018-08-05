@@ -2,8 +2,8 @@
     <Source>
         <Name>openbazaar</Name>
         <Packager>
-            <Name>Sönke Behrendt</Name>
-            <Email>thesoenke@outlook.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>network.web</PartOf>
@@ -3420,8 +3420,6 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/array-uniq/license</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/array-uniq/package.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/array-uniq/readme.md</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/.npmignore</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/.travis.yml</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/lib/ber/errors.js</Path>
@@ -3431,8 +3429,6 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/lib/ber/writer.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/lib/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/package.json</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/tst/ber/reader.test.js</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/asn1/tst/ber/writer.test.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/assert-plus/AUTHORS</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/assert-plus/CHANGES.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/assert-plus/README.md</Path>
@@ -4267,6 +4263,8 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/base64-js/test/big-data.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/base64-js/test/convert.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/base64-js/test/url-safe.js</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bcrypt-pbkdf/CONTRIBUTING.md</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bcrypt-pbkdf/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bcrypt-pbkdf/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bcrypt-pbkdf/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bcrypt-pbkdf/package.json</Path>
@@ -5035,6 +5033,16 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bs58/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bs58/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/bs58/package.json</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc-unsafe/index.js</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc-unsafe/package.json</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc-unsafe/readme.md</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc/index.js</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc/package.json</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-alloc/readme.md</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-fill/index.js</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-fill/package.json</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-fill/readme.md</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-from/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-from/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-from/package.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/buffer-from/readme.md</Path>
@@ -6910,7 +6918,6 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/domutils/test/tests/legacy.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/domutils/test/tests/traversal.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/domutils/test/utils.js</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/ecc-jsbn/.npmignore</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/ecc-jsbn/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/ecc-jsbn/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/ecc-jsbn/index.js</Path>
@@ -7391,9 +7398,9 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/esutils/lib/keyword.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/esutils/lib/utils.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/esutils/package.json</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/.editorconfig</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/.eslintrc</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/.jscs.json</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/.npmignore</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/.travis.yml</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/CHANGELOG.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/extend/LICENSE</Path>
@@ -7692,6 +7699,7 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/galactus/tsconfig.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/galactus/tslint.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/galactus/yarn.lock</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/get-caller-file/LICENSE.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/get-caller-file/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/get-caller-file/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/get-caller-file/package.json</Path>
@@ -7811,6 +7819,7 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/homedir/package.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/homedir/readme.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/homedir/test.js</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/hosted-git-info/CHANGELOG.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/hosted-git-info/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/hosted-git-info/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/hosted-git-info/git-host-info.js</Path>
@@ -9242,9 +9251,10 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-builtin-module/license</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-builtin-module/package.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-builtin-module/readme.md</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.editorconfig</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.eslintrc</Path>
+            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.istanbul.yml</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.jscs.json</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.npmignore</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/.travis.yml</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/CHANGELOG.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/is-callable/LICENSE</Path>
@@ -10657,7 +10667,6 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/lodash/zipObject.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/lodash/zipObjectDeep.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/lodash/zipWith.js</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/loose-envify/.npmignore</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/loose-envify/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/loose-envify/README.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/loose-envify/cli.js</Path>
@@ -11201,14 +11210,11 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/multihashes/src/constants.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/multihashes/src/index.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/.eslintrc</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/.npmignore</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/.travis.yml</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/CHANGELOG.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/LICENSE</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/Makefile</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/README.md</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/build/polyglot.js</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/build/polyglot.min.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/docs/docco.css</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/docs/polyglot.html</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/node-polyglot/docs/public/fonts/aller-bold.eot</Path>
@@ -15319,7 +15325,6 @@
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/CHANGELOG.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/LICENSE.md</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/README.md</Path>
-            <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/browser.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/package.json</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/warning/warning.js</Path>
             <Path fileType="data">/usr/share/openbazaar/resources/app/node_modules/which-module/CHANGELOG.md</Path>
@@ -16004,12 +16009,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-06-25</Date>
+        <Update release="2">
+            <Date>2018-08-04</Date>
             <Version>2.2.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Sönke Behrendt</Name>
-            <Email>thesoenke@outlook.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Update>
     </History>
 </PISI>
